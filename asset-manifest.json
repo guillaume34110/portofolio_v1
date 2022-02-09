@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portofolio_v1/static/css/main.faa0ee53.css",
+    "main.js": "/portofolio_v1/static/js/main.8a0465b1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/portofolio_v1/static/js/787.28cb0dcd.chunk.js",
+    "static/media/sky.jpg": "/portofolio_v1/static/media/sky.25c701bb3a8d5d102355.jpg",
+    "static/media/fisheye_x264.mp4": "/portofolio_v1/static/media/fisheye_x264.32a142375da94b4d6d5e.mp4",
+    "static/media/meteo-api_x264.mp4": "/portofolio_v1/static/media/meteo-api_x264.d93130633a0d0d533680.mp4",
+    "static/media/white-tone.jpg": "/portofolio_v1/static/media/white-tone.f268f5f960f06cfd34a2.jpg",
+    "static/media/fisheye2-min.PNG": "/portofolio_v1/static/media/fisheye2-min.759df6b41569a2df906c.PNG",
+    "static/media/white-texture.jpg": "/portofolio_v1/static/media/white-texture.e6f324eb791f4ef3b30a.jpg",
+    "static/media/cryptogame_x264.mp4": "/portofolio_v1/static/media/cryptogame_x264.be6b58d7d6959bb61cec.mp4",
+    "static/media/fisheye1-min.PNG": "/portofolio_v1/static/media/fisheye1-min.494ec3b8c978070c0b63.PNG",
+    "static/media/meteo-min.PNG": "/portofolio_v1/static/media/meteo-min.4f57d261ef2fa2dcee3f.PNG",
+    "static/media/profile.png": "/portofolio_v1/static/media/profile.afde3a46363628569e8e.png",
+    "static/media/myChat_x264.mp4": "/portofolio_v1/static/media/myChat_x264.775b20d3585f6fb8f5f6.mp4",
+    "static/media/dat-curve-smoother_x264.mp4": "/portofolio_v1/static/media/dat-curve-smoother_x264.9edefdd68dac250f25a5.mp4",
+    "static/media/cryptogame1-min.PNG": "/portofolio_v1/static/media/cryptogame1-min.a75593045d27521b8d3e.PNG",
+    "static/media/basic.png": "/portofolio_v1/static/media/basic.b7f9c538fda61e7b53bc.png",
+    "static/media/cryptogame2-min.PNG": "/portofolio_v1/static/media/cryptogame2-min.c8867eb522c0ae6aaf50.PNG",
+    "static/media/pinguigny_x264.mp4": "/portofolio_v1/static/media/pinguigny_x264.07b2083b57bb0e55c15d.mp4",
+    "static/media/Lua.png": "/portofolio_v1/static/media/Lua.b33a6a1033860554e020.png",
+    "static/media/data-curve-smoother-min.PNG": "/portofolio_v1/static/media/data-curve-smoother-min.eb56cca80f55602b80d4.PNG",
+    "static/media/chat2-min.PNG": "/portofolio_v1/static/media/chat2-min.a8f002056d08593850fd.PNG",
+    "static/media/chat1-min.PNG": "/portofolio_v1/static/media/chat1-min.0c468f5e7987a2747300.PNG",
+    "static/media/pinguini1-min.PNG": "/portofolio_v1/static/media/pinguini1-min.f8a8168a7be5b7b73f70.PNG",
+    "static/media/pinguini2-min.PNG": "/portofolio_v1/static/media/pinguini2-min.90da338b485d5853d349.PNG",
+    "static/media/cv.svg": "/portofolio_v1/static/media/cv.1d5fa73b8116daa1a935.svg",
+    "index.html": "/portofolio_v1/index.html",
+    "main.faa0ee53.css.map": "/portofolio_v1/static/css/main.faa0ee53.css.map",
+    "main.8a0465b1.js.map": "/portofolio_v1/static/js/main.8a0465b1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/portofolio_v1/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faa0ee53.css",
+    "static/js/main.8a0465b1.js"
+  ]
+}
