@@ -30,7 +30,7 @@ const closePopup = () => {
         </div>
         <div className ="popup-scrollable">
         <div className="popup-technologies-links">
-          <div>
+          <div className="popup-technologies">
             <h3>Technologies</h3>
             <ul className="popup-technologies-list">
               {data.data.icons.map((icon, index) => (

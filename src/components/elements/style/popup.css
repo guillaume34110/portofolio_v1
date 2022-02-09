@@ -18,7 +18,9 @@
     
     max-height: 80%;
     background-color: rgb(255, 255, 255);
-    
+    background-image: url('../../../assets/pictures/white-tone.jpg');
+    background-repeat: no-repeat ;
+        background-size: cover;
    
     box-shadow: 0 0.9rem 1.8rem 0 rgb(44 51 73 / 20%);
     border-radius: 20px;
@@ -129,3 +131,38 @@
     flex-grow: 1;
     margin: 10px;
 }
+@media screen and (max-width: 800px){
+    .popup-title{
+        flex-wrap: wrap-reverse;
+        justify-content : space-between;
+    }
+    
+    .popup-container{
+        max-height: 95%;
+    }
+    .popup-technologies-links,.popup-description-images{
+        flex-direction: column;
+        align-items: center;
+  }
+  
+ 
+.popup-description ,.popup-links,.popup-images,.popup-technologies {
+    width : stretch;
+    min-width: 200px;
+}
+.popup-images img{
+    margin :10px 0;
+}
+.popup-images h3{
+    padding : 0;
+}
+  }
+  @media screen and (max-width: 500px){
+    .popup-title{
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .popup-title i{
+       align-self: flex-start;
+    }
+  }

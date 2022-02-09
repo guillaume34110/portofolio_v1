@@ -7,6 +7,9 @@
 main{
   display : flex;
 width : 100%;
+background-image: url('./assets/pictures/white-texture.jpg');
+background-repeat: no-repeat ;
+    background-size: cover;
 }
 .blue-macro::before{
   bottom: 0.85em;

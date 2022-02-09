@@ -8,14 +8,17 @@
     margin-top: -120px;
     background : whitesmoke;
     border-radius: 20px;
-    margin : -120px 20px 0 20px;
+    margin : -120px 20px 0 3.5rem;
     height : fit-content;
+    background-image: url('../../../assets/pictures/white-tone.jpg');
+background-repeat: no-repeat ;
+    background-size: cover;
 }
 .aside-collapse{
   display: flex;
   align-items: center;
   justify-content: center;
-    border: 5px solid white;
+    border: 5px solid rgba(255, 255, 255, 0.345);
     border-top: none;
     border-bottom-left-radius: 2em;
     border-bottom-right-radius: 2em;
@@ -25,7 +28,10 @@
     outline: none;
     transition: all 0.2s ease-in-out;
     background-color: whitesmoke;
-    transform: translateY(99%)
+    transform: translateY(99%);
+    background-image: url('../../../assets/pictures/white-tone.jpg');
+    background-repeat: no-repeat ;
+        background-size: cover;
 }
 @media screen and (max-width: 800px){
     .aside-container{
